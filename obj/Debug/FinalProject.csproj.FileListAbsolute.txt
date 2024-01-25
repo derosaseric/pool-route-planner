@@ -1,7 +1,0 @@
-C:\Users\Eric D\C#\ECE2310\All_Homework\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
-C:\Users\Eric D\C#\ECE2310\All_Homework\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
-C:\Users\Eric D\C#\ECE2310\All_Homework\FinalProject\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
-C:\Users\Eric D\C#\ECE2310\All_Homework\FinalProject\FinalProject\FinalProject\bin\Debug\FinalProject.exe
-C:\Users\Eric D\C#\ECE2310\All_Homework\FinalProject\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
-C:\Users\Eric D\C#\ECE2310\All_Homework\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.exe
-C:\Users\Eric D\C#\ECE2310\All_Homework\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
