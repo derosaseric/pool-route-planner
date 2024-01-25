@@ -1,0 +1,16 @@
+C:\Developer\pool-route-planner\PoolRoutePlanner\bin\Debug\net5.0\PoolRoutePlanner.exe
+C:\Developer\pool-route-planner\PoolRoutePlanner\bin\Debug\net5.0\PoolRoutePlanner.deps.json
+C:\Developer\pool-route-planner\PoolRoutePlanner\bin\Debug\net5.0\PoolRoutePlanner.runtimeconfig.json
+C:\Developer\pool-route-planner\PoolRoutePlanner\bin\Debug\net5.0\PoolRoutePlanner.runtimeconfig.dev.json
+C:\Developer\pool-route-planner\PoolRoutePlanner\bin\Debug\net5.0\PoolRoutePlanner.dll
+C:\Developer\pool-route-planner\PoolRoutePlanner\bin\Debug\net5.0\ref\PoolRoutePlanner.dll
+C:\Developer\pool-route-planner\PoolRoutePlanner\bin\Debug\net5.0\PoolRoutePlanner.pdb
+C:\Developer\pool-route-planner\PoolRoutePlanner\obj\Debug\net5.0\PoolRoutePlanner.csproj.AssemblyReference.cache
+C:\Developer\pool-route-planner\PoolRoutePlanner\obj\Debug\net5.0\PoolRoutePlanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Developer\pool-route-planner\PoolRoutePlanner\obj\Debug\net5.0\PoolRoutePlanner.AssemblyInfoInputs.cache
+C:\Developer\pool-route-planner\PoolRoutePlanner\obj\Debug\net5.0\PoolRoutePlanner.AssemblyInfo.cs
+C:\Developer\pool-route-planner\PoolRoutePlanner\obj\Debug\net5.0\PoolRoutePlanner.csproj.CoreCompileInputs.cache
+C:\Developer\pool-route-planner\PoolRoutePlanner\obj\Debug\net5.0\PoolRoutePlanner.dll
+C:\Developer\pool-route-planner\PoolRoutePlanner\obj\Debug\net5.0\ref\PoolRoutePlanner.dll
+C:\Developer\pool-route-planner\PoolRoutePlanner\obj\Debug\net5.0\PoolRoutePlanner.pdb
+C:\Developer\pool-route-planner\PoolRoutePlanner\obj\Debug\net5.0\PoolRoutePlanner.genruntimeconfig.cache
