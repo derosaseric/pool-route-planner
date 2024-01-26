@@ -30,18 +30,19 @@ Build the project:
 
 ```bash
 dotnet build
-
 Run the program:
 
-```bash
+bash
+Copy code
 dotnet run
-
 Follow the on-screen instructions to interact with the program.
 
-**Example Output**
+Example Output
+
 After running the program, you should see output similar to the following:
 
-```plaintext
+plaintext
+Copy code
 Initial Pool Count: 0
 
 Visiting pool A: (x, y) >> Pool with temperature at 100.5 F >>
