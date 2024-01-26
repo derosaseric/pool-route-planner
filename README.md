@@ -35,9 +35,9 @@ The `Pool` class represents a swimming pool, containing objects of Temperature a
 
 ## Functionality
 
-The program ensures that the temperature for each pool is within the range of 98 oF and 104 oF.
-A maintenance crew can visit all pools, starting from location (0,0), and setting temperatures in a route that minimizes distance.
-The program displays the route taken by the maintenance crew.
+- The program ensures that the temperature for each pool is within the range of 98&deg;F and 104&deg;F.
+- A maintenance crew can visit all pools, starting from location (0,0), and setting temperatures in a route that minimizes distance.
+- The program displays the route taken by the maintenance crew.
 
 ## Driver Program
 
