@@ -23,6 +23,7 @@ This C# program implements a pool route planner with classes for Pool, Temperatu
 
    ```bash
    git clone https://github.com/derosaseric/pool-route-planner.git
+   ```
 
 ## Usage
 
@@ -30,19 +31,21 @@ Build the project:
 
 ```bash
 dotnet build
+```
+
 Run the program:
 
-bash
-Copy code
+```bash
 dotnet run
+```
+
 Follow the on-screen instructions to interact with the program.
 
-Example Output
+**Example Output**
 
 After running the program, you should see output similar to the following:
 
-plaintext
-Copy code
+```plaintext
 Initial Pool Count: 0
 
 Visiting pool A: (x, y) >> Pool with temperature at 100.5 F >>
@@ -50,6 +53,7 @@ Visiting pool A: (x, y) >> Pool with temperature at 100.5 F >>
 ...
 
 Final Pool Count: 7
+```
 
 ### Notes
 
