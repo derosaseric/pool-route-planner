@@ -17,10 +17,43 @@ This C# program implements a pool route planner with classes for Pool, Temperatu
 
 ## Installation
 
-1. Clone the repository:
+1. Ensure you have the [.NET SDK](https://dotnet.microsoft.com/download) installed.
+
+2. Clone the repository to your local machine:
 
    ```bash
    git clone https://github.com/derosaseric/pool-route-planner.git
+
+## Usage
+
+Build the project:
+
+```bash
+dotnet build
+
+Run the program:
+
+```bash
+dotnet run
+
+Follow the on-screen instructions to interact with the program.
+
+**Example Output**
+After running the program, you should see output similar to the following:
+
+```plaintext
+Initial Pool Count: 0
+
+Visiting pool A: (x, y) >> Pool with temperature at 100.5 F >>
+
+...
+
+Final Pool Count: 7
+
+### Notes
+
+- This program was developed as a final project, and every line of code is authored by the project owner.
+- Ensure you have the .NET SDK installed before attempting to build and run the program.
 
 ## Classes
 
