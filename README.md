@@ -24,14 +24,14 @@ This C# program implements a pool route planner with classes for Pool, Temperatu
 
 ## Classes
 
-  # Temperature
-  The Temperature class represents the temperature of a pool. It has properties for degree and scale.
+### Temperature
+The `Temperature` class represents the temperature of a pool. It has properties for degree and scale.
 
-  # Location
-  The Location class defines the location of a pool with 'x' and 'y' coordinates.
+### Location
+The `Location` class defines the location of a pool with 'x' and 'y' coordinates.
 
-  # Pool
-  The Pool class represents a swimming pool, containing objects of Temperature and Location. It includes methods for finding distance between pools, setting temperatures, and generating random temperatures and locations.
+### Pool
+The `Pool` class represents a swimming pool, containing objects of Temperature and Location. It includes methods for finding distance between pools, setting temperatures, and generating random temperatures and locations.
 
 ## Functionality
 
